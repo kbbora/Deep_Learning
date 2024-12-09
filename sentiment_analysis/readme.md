@@ -1,0 +1,3 @@
+Bu taskta görüntüler üzerinde duygu durum analizi üzerine çalışma gerçekleştirilmiştir. 
+Python üzerinde FER ve mediapipe kütüphaneleri kullanarak birden çok insanın bulunduğu bir video görüntüsünde yüz ifadelerinden duygu hallerinin çıkarımı amaçlanmıştır.
+FER kütüphanesi, duygu analizi için özel olarak optimize edilmiş bir araç olduğundan, kullanımı daha mantıklı ve sonuçları daha tutarlıdır. Mediapipe ise yüz landmark'larını tespit etmede güçlü bir araç olsa da, duygu analizi gibi özel uygulamalarda ek geliştirmelere ihtiyaç duyar. Bu nedenle, yüz ifadelerinden duygu analizi yapmak için FER kütüphanesi tercih edilmelidir.
